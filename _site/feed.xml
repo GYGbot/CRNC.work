@@ -5,8 +5,8 @@
     <description>Building a protocol for the currency of work</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Aug 2015 11:19:56 -0500</pubDate>
-    <lastBuildDate>Sun, 30 Aug 2015 11:19:56 -0500</lastBuildDate>
+    <pubDate>Sun, 30 Aug 2015 11:32:18 -0500</pubDate>
+    <lastBuildDate>Sun, 30 Aug 2015 11:32:18 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -60,7 +60,11 @@
         <description>&lt;h1 id=&quot;blockchain-background&quot;&gt;Blockchain Background&lt;/h1&gt;
 
 &lt;h2 id=&quot;other-particularly-noteworthy-resources&quot;&gt;Other particularly noteworthy resources&lt;/h2&gt;
-&lt;p&gt;Any errors, inconsistencies or failures of the curated content can be blamed upon the individuals behind CRNC.work, but the STRUCTURE or OUTLINE of this MOOC is really solid … because it was blatantly stolen from the Table of Contents of very important book Blockchain(https://www.safaribooksonline.com/library/view/blockchain/9781491920480/) written by the Founder of &lt;a href=&quot;http://www.blockchainstudies.org/&quot;&gt;The Institute for Blockchain Studies&lt;/a&gt;, &lt;a href=&quot;http://www.melanieswan.com/&quot;&gt;Melanie Swan&lt;/a&gt; and published by &lt;a href=&quot;https://www.safaribooksonline.com/search/?q=Blockchain&quot;&gt;O’Reilly Publishing&lt;/a&gt;.  There are other noteworthy resources that are worth following closely as well … for example, the &lt;a href=&quot;http://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockchain-list&quot;&gt;Ledra Capital Mega Master Blockchain List&lt;/a&gt; and the &lt;a href=&quot;http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series&quot;&gt;full Ledra Bitcoin series&lt;/a&gt; are certainly a great starting point and complement to this MOOC. If you are interesting learning more about the blockchain, the best way might be to clone this MOOC and then make it better with your own curated content, notes, observations and updates.&lt;/p&gt;
+&lt;p&gt;The structure of this MOOC follows Table of Contents of extremely important and useful book &lt;a href=&quot;https://www.safaribooksonline.com/library/view/blockchain/9781491920480/&quot;&gt;Blockchain&lt;/a&gt; written by the Founder of &lt;a href=&quot;http://www.blockchainstudies.org/&quot;&gt;The Institute for Blockchain Studies&lt;/a&gt;, &lt;a href=&quot;http://www.melanieswan.com/&quot;&gt;Melanie Swan&lt;/a&gt; and published by &lt;a href=&quot;https://www.safaribooksonline.com/search/?q=Blockchain&quot;&gt;O’Reilly Publishing&lt;/a&gt; in February, 2015.&lt;/p&gt;
+
+&lt;p&gt;There are other noteworthy resources that are worth following closely as well … for example, the &lt;a href=&quot;http://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockchain-list&quot;&gt;Ledra Capital Mega Master Blockchain List&lt;/a&gt; and the &lt;a href=&quot;http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series&quot;&gt;full Ledra Bitcoin series&lt;/a&gt; are certainly a great starting point and complement to this MOOC.&lt;/p&gt;
+
+&lt;p&gt;If you are serious about your interest in learning more about the blockchain, the best way is do your own MOOC.  An easy way would be to fork the repository or just copy the &lt;a href=&quot;https://github.com/GYGbot/CRNC.work/blob/gh-pages/_posts/2015-08-30-CNRC.work-Blockchain-MOOC.markdown&quot;&gt;Markdown that generates this page&lt;/a&gt; on GitHub and then make yours better with your own curated content, notes, observations and updates.&lt;/p&gt;
 
 &lt;h2 id=&quot;publicprivate-key-cryptography-101&quot;&gt;Public/Private-Key Cryptography 101&lt;/h2&gt;
 

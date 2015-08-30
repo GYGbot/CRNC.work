@@ -7,7 +7,11 @@ categories: Blockchain MOOC
 #Blockchain Background
 
 ## Other particularly noteworthy resources
-Any errors, inconsistencies or failures of the curated content can be blamed upon the individuals behind CRNC.work, but the STRUCTURE or OUTLINE of this MOOC is really solid ... because it was blatantly stolen from the Table of Contents of very important book Blockchain(https://www.safaribooksonline.com/library/view/blockchain/9781491920480/) written by the Founder of [The Institute for Blockchain Studies](http://www.blockchainstudies.org/), [Melanie Swan](http://www.melanieswan.com/) and published by [O'Reilly Publishing](https://www.safaribooksonline.com/search/?q=Blockchain).  There are other noteworthy resources that are worth following closely as well ... for example, the [Ledra Capital Mega Master Blockchain List](http://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockchain-list) and the [full Ledra Bitcoin series](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series) are certainly a great starting point and complement to this MOOC. If you are interesting learning more about the blockchain, the best way might be to clone this MOOC and then make it better with your own curated content, notes, observations and updates.
+The structure of this MOOC follows Table of Contents of extremely important and useful book [Blockchain](https://www.safaribooksonline.com/library/view/blockchain/9781491920480/) written by the Founder of [The Institute for Blockchain Studies](http://www.blockchainstudies.org/), [Melanie Swan](http://www.melanieswan.com/) and published by [O'Reilly Publishing](https://www.safaribooksonline.com/search/?q=Blockchain) in February, 2015.  
+
+There are other noteworthy resources that are worth following closely as well ... for example, the [Ledra Capital Mega Master Blockchain List](http://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockchain-list) and the [full Ledra Bitcoin series](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series) are certainly a great starting point and complement to this MOOC.
+
+If you are serious about your interest in learning more about the blockchain, the best way is do your own MOOC.  An easy way would be to fork the repository or just copy the [Markdown that generates this page](https://github.com/GYGbot/CRNC.work/blob/gh-pages/_posts/2015-08-30-CNRC.work-Blockchain-MOOC.markdown) on GitHub and then make yours better with your own curated content, notes, observations and updates.
 
 ## Public/Private-Key Cryptography 101
 
