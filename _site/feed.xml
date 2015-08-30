@@ -5,8 +5,8 @@
     <description>Building a protocol for the currency of work</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Aug 2015 11:08:39 -0500</pubDate>
-    <lastBuildDate>Sun, 30 Aug 2015 11:08:39 -0500</lastBuildDate>
+    <pubDate>Sun, 30 Aug 2015 11:19:56 -0500</pubDate>
+    <lastBuildDate>Sun, 30 Aug 2015 11:19:56 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -57,143 +57,234 @@
     
       <item>
         <title>CRNC.work Blockchain MOOC!</title>
-        <description>&lt;p&gt;In EVERY self-directed curriculum, the first thing that we need to address is our motivation or the “WHY DOES IT MATTER” of the topics we choose to learn about. Learning for the sake of curiosity or for accumulating esoteric knowledge is fine and dandy, of course … but the point of focused, accelerated, productive learning is to expeditiously solve a problem or to efficiently develop more effective tools that enable others to better solve a problem … as we learn about a topic, we should be thinking about each of the following headings and under each heading we should thinking about Strengths, Weaknesss, Opportunities and Threats.  In other words, the point of this accelerated learning is robust situational awareness of the terrain we face.&lt;/p&gt;
-
-&lt;h2 id=&quot;people&quot;&gt;People&lt;/h2&gt;
-&lt;p&gt;Anything about training, management and coordination of effort between companies, locations, teams and anyone involved with a productive process.  How will the people involve be able to use what we want to build?&lt;/p&gt;
-
-&lt;h2 id=&quot;methods&quot;&gt;Methods&lt;/h2&gt;
-&lt;p&gt;How the process is performed and the specific requirements for defining the proper deliverables; this includes compliance with policies, procedures, reporting, rules, regulations and laws that are driven by other stakeholders in the process&lt;/p&gt;
-
-&lt;h2 id=&quot;machines&quot;&gt;Machines&lt;/h2&gt;
-&lt;p&gt;Any gear or equipment … computational power, machine tools and tooling, automation, temporary fixtures and scaffolding, hardware, etc. required to accomplish the job&lt;/p&gt;
-
-&lt;h2 id=&quot;materials&quot;&gt;Materials:&lt;/h2&gt;
-&lt;p&gt;Raw materials, parts, pens, paper, power, fuel, lubricants, fasteners, hardware and other expendables will be used to produce the final product&lt;/p&gt;
-
-&lt;h2 id=&quot;measurements&quot;&gt;Measurements&lt;/h2&gt;
-&lt;p&gt;What data are generated from the process and how will it be used to evaluate quality of the productive effort?  How accurately do the data depict reality?  What is the signal to noise ratio? What about measurement systems analysis or calibration of the recording device?&lt;/p&gt;
-
-&lt;h2 id=&quot;environment&quot;&gt;Environment&lt;/h2&gt;
-&lt;p&gt;The conditions, such as location, time, temperature, and political and social culture in which the process operates.  How will the environment fluctuate and change over time?  Can we design the process to be more antifragile, to benefit from more chaos or increased uncertainty?&lt;/p&gt;
-
-&lt;h1 id=&quot;blockchain-background&quot;&gt;Blockchain Background&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;blockchain-background&quot;&gt;Blockchain Background&lt;/h1&gt;
 
 &lt;h2 id=&quot;other-particularly-noteworthy-resources&quot;&gt;Other particularly noteworthy resources&lt;/h2&gt;
 &lt;p&gt;Any errors, inconsistencies or failures of the curated content can be blamed upon the individuals behind CRNC.work, but the STRUCTURE or OUTLINE of this MOOC is really solid … because it was blatantly stolen from the Table of Contents of very important book Blockchain(https://www.safaribooksonline.com/library/view/blockchain/9781491920480/) written by the Founder of &lt;a href=&quot;http://www.blockchainstudies.org/&quot;&gt;The Institute for Blockchain Studies&lt;/a&gt;, &lt;a href=&quot;http://www.melanieswan.com/&quot;&gt;Melanie Swan&lt;/a&gt; and published by &lt;a href=&quot;https://www.safaribooksonline.com/search/?q=Blockchain&quot;&gt;O’Reilly Publishing&lt;/a&gt;.  There are other noteworthy resources that are worth following closely as well … for example, the &lt;a href=&quot;http://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockchain-list&quot;&gt;Ledra Capital Mega Master Blockchain List&lt;/a&gt; and the &lt;a href=&quot;http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series&quot;&gt;full Ledra Bitcoin series&lt;/a&gt; are certainly a great starting point and complement to this MOOC. If you are interesting learning more about the blockchain, the best way might be to clone this MOOC and then make it better with your own curated content, notes, observations and updates.&lt;/p&gt;
 
 &lt;h2 id=&quot;publicprivate-key-cryptography-101&quot;&gt;Public/Private-Key Cryptography 101&lt;/h2&gt;
-&lt;p&gt;## Cryptocurrency Basics
-## Currency, Contracts, and Applications beyond Financial Markets
-## Blockchain 1.0, 2.0, and 3.0
-## What Is Bitcoin?
-## What Is the Blockchain?
-## The Connected World and Blockchain: The Fifth Disruptive Computing Paradigm
-## M2M/IoT Bitcoin Payment Network to Enable the Machine Economy
-## Mainstream Adoption: Trust, Usability, Ease of Use
-## Bitcoin Culture: Bitfilm Festival
-# Blockchain 1.0: Currency
-## Technology Stack: Blockchain, Protocol, Currency
-## The Double-Spend and Byzantine Generals’ Computing Problems
-## How a Cryptocurrency Works
-## eWallet Services and Personal Cryptosecurity
-## Merchant Acceptance of Bitcoin
-## Summary: Blockchain 1.0 in Practical Use
-## Relation to Fiat Currency
-## Regulatory Status
-# Blockchain 2.0: Contracts
-## Financial Services
-## Crowdfunding
-## Bitcoin Prediction Markets
-## Smart Property
-## Smart Contracts
-## Blockchain 2.0 Protocol Projects
-## Wallet Development Projects
-## Blockchain Development Platforms and APIs
-## Blockchain Ecosystem: Decentralized Storage, Communication, and Computation
-## Ethereum: Turing-Complete Virtual Machine
-## Counterparty Re-creates Ethereum’s Smart Contract Platform
-## Dapps, DAOs, DACs, and DASs: Increasingly Autonomous Smart Contracts
-### Dapps
-### DAOs and DACs
-### DASs and Self-Bootstrapped Organizations
-## Automatic Markets and Tradenets
-## The Blockchain as a Path to Artificial Intelligence
-# Blockchain 3.0: Justice Applications Beyond Currency, Economics, and Markets
-## Blockchain Technology Is a New and Highly Effective Model for Organizing Activity
-## Extensibility of Blockchain Technology Concepts
-## Fundamental Economic Principles: Discovery, Value Attribution,
-## Blockchain Technology Could Be Used in the Administration of
-## Blockchain Layer Could Facilitate Big Data’s Predictive Task Automation
-## Distributed Censorship-Resistant Organizational Models
-## Namecoin: Decentralized Domain Name System
-## Challenges and Other Decentralized DNS Services
-## Freedom of Speech/Anti-Censorship Applications: Alexandria
-## Decentralized DNS Functionality Beyond Free Speech: Digital Identity
-## Digital Identity Verification
-## Blockchain Neutrality
-## Digital Divide of Bitcoin
-## Digital Art: Blockchain Attestation Services (Notary, Intellectual Property Protection)
-## Hashing Plus Timestamping
-## Proof of Existence
-## Virtual Notary, Bitnotar, and Chronobit
-## Monegraph: Online Graphics Protection
-## Digital Asset Proof as an Automated Feature
-## Batched Notary Chains as a Class of Blockchain Infrastructure
-## Personal Thinking Blockchains
-## Blockchain Government
-## Decentralized Governance Services
-## PrecedentCoin: Blockchain Dispute Resolution
-## Liquid Democracy and Random-Sample Elections
-## Random-Sample Elections
-## Futarchy: Two-Step Democracy with Voting + Prediction Markets
-## Societal Maturity Impact of Blockchain Governance
-# Blockchain 3.0: Efficiency and Coordination Applications Beyond Currency,
-## Blockchain Science: Gridcoin, Foldingcoin
-## Community Supercomputing
-## Global Public Health: Bitcoin for Contagious Disease Relief
-## Charity Donations and the Blockchain—Sean’s Outpost
-## Blockchain Genomics
-## Blockchain Genomics 2.0: Industrialized All-Human-Scale Sequencing Solution
-## Blockchain Technology as a Universal Order-of-Magnitude Progress Model
-## Genomecoin, GenomicResearchcoin
-## Blockchain Health
-## Healthcoin
-## EMRs on the Blockchain: Personal Health Record Storage
-## Blockchain Health Research Commons
-## Blockchain Health Notary
-## Doctor Vendor RFP Services and Assurance Contracts
-## Virus Bank, Seed Vault Backup
-## Blockchain Learning: Bitcoin MOOCs and Smart Contract Literacy
-## Learncoin
-## Learning Contract Exchanges
-## Blockchain Academic Publishing: Journalcoin
-## The Blockchain Is Not for Every Situation
-## Centralization-Decentralization Tension and Equilibrium
-# Advanced Concepts
-## Terminology and Concepts
-## Currency, Token, Tokenizing
-## Communitycoin: Hayek’s Private Currencies Vie for Attention
-## Campuscoin
-## Coin Drops as a Strategy for Public Adoption
-## Currency: New Meanings
-## Currency Multiplicity: Monetary and Nonmonetary Currencies
-## Demurrage Currencies: Potentially Incitory and Redistributable
-## Extensibility of Demurrage Concept and Features
-# Limitations
-## Technical Challenges
-## Business Model Challenges
-## Scandals and Public Perception
-## Government Regulation
-## Privacy Challenges for Personal Records
-## Overall: Decentralization Trends Likely to Persist
-# Conclusion
-## The Blockchain Is an Information Technology
-## Blockchain AI: Consensus as the Mechanism to Foster “Friendly” AI
-## Large Possibility Space for Intelligence
-## Only Friendly AIs Are Able to Get Their Transactions Executed
-## Smart Contract Advocates on Behalf of Digital Intelligence
-## Blockchain Consensus Increases the Information Resolution of the Universe&lt;/p&gt;
+
+&lt;h2 id=&quot;cryptocurrency-basics&quot;&gt;Cryptocurrency Basics&lt;/h2&gt;
+
+&lt;h2 id=&quot;currency-contracts-and-applications-beyond-financial-markets&quot;&gt;Currency, Contracts, and Applications beyond Financial Markets&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-10-20-and-30&quot;&gt;Blockchain 1.0, 2.0, and 3.0&lt;/h2&gt;
+
+&lt;h2 id=&quot;what-is-bitcoin&quot;&gt;What Is Bitcoin?&lt;/h2&gt;
+
+&lt;h2 id=&quot;what-is-the-blockchain&quot;&gt;What Is the Blockchain?&lt;/h2&gt;
+
+&lt;h2 id=&quot;the-connected-world-and-blockchain-the-fifth-disruptive-computing-paradigm&quot;&gt;The Connected World and Blockchain: The Fifth Disruptive Computing Paradigm&lt;/h2&gt;
+
+&lt;h2 id=&quot;m2miot-bitcoin-payment-network-to-enable-the-machine-economy&quot;&gt;M2M/IoT Bitcoin Payment Network to Enable the Machine Economy&lt;/h2&gt;
+
+&lt;h2 id=&quot;mainstream-adoption-trust-usability-ease-of-use&quot;&gt;Mainstream Adoption: Trust, Usability, Ease of Use&lt;/h2&gt;
+
+&lt;h2 id=&quot;bitcoin-culture-bitfilm-festival&quot;&gt;Bitcoin Culture: Bitfilm Festival&lt;/h2&gt;
+
+&lt;h1 id=&quot;blockchain-10-currency&quot;&gt;Blockchain 1.0: Currency&lt;/h1&gt;
+
+&lt;h2 id=&quot;technology-stack-blockchain-protocol-currency&quot;&gt;Technology Stack: Blockchain, Protocol, Currency&lt;/h2&gt;
+
+&lt;h2 id=&quot;the-double-spend-and-byzantine-generals-computing-problems&quot;&gt;The Double-Spend and Byzantine Generals’ Computing Problems&lt;/h2&gt;
+
+&lt;h2 id=&quot;how-a-cryptocurrency-works&quot;&gt;How a Cryptocurrency Works&lt;/h2&gt;
+
+&lt;h2 id=&quot;ewallet-services-and-personal-cryptosecurity&quot;&gt;eWallet Services and Personal Cryptosecurity&lt;/h2&gt;
+
+&lt;h2 id=&quot;merchant-acceptance-of-bitcoin&quot;&gt;Merchant Acceptance of Bitcoin&lt;/h2&gt;
+
+&lt;h2 id=&quot;summary-blockchain-10-in-practical-use&quot;&gt;Summary: Blockchain 1.0 in Practical Use&lt;/h2&gt;
+
+&lt;h2 id=&quot;relation-to-fiat-currency&quot;&gt;Relation to Fiat Currency&lt;/h2&gt;
+
+&lt;h2 id=&quot;regulatory-status&quot;&gt;Regulatory Status&lt;/h2&gt;
+
+&lt;h1 id=&quot;blockchain-20-contracts&quot;&gt;Blockchain 2.0: Contracts&lt;/h1&gt;
+
+&lt;h2 id=&quot;financial-services&quot;&gt;Financial Services&lt;/h2&gt;
+
+&lt;h2 id=&quot;crowdfunding&quot;&gt;Crowdfunding&lt;/h2&gt;
+
+&lt;h2 id=&quot;bitcoin-prediction-markets&quot;&gt;Bitcoin Prediction Markets&lt;/h2&gt;
+
+&lt;h2 id=&quot;smart-property&quot;&gt;Smart Property&lt;/h2&gt;
+
+&lt;h2 id=&quot;smart-contracts&quot;&gt;Smart Contracts&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-20-protocol-projects&quot;&gt;Blockchain 2.0 Protocol Projects&lt;/h2&gt;
+
+&lt;h2 id=&quot;wallet-development-projects&quot;&gt;Wallet Development Projects&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-development-platforms-and-apis&quot;&gt;Blockchain Development Platforms and APIs&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-ecosystem-decentralized-storage-communication-and-computation&quot;&gt;Blockchain Ecosystem: Decentralized Storage, Communication, and Computation&lt;/h2&gt;
+
+&lt;h2 id=&quot;ethereum-turing-complete-virtual-machine&quot;&gt;Ethereum: Turing-Complete Virtual Machine&lt;/h2&gt;
+
+&lt;h2 id=&quot;counterparty-re-creates-ethereums-smart-contract-platform&quot;&gt;Counterparty Re-creates Ethereum’s Smart Contract Platform&lt;/h2&gt;
+
+&lt;h2 id=&quot;dapps-daos-dacs-and-dass-increasingly-autonomous-smart-contracts&quot;&gt;Dapps, DAOs, DACs, and DASs: Increasingly Autonomous Smart Contracts&lt;/h2&gt;
+
+&lt;h3 id=&quot;dapps&quot;&gt;Dapps&lt;/h3&gt;
+
+&lt;h3 id=&quot;daos-and-dacs&quot;&gt;DAOs and DACs&lt;/h3&gt;
+
+&lt;h3 id=&quot;dass-and-self-bootstrapped-organizations&quot;&gt;DASs and Self-Bootstrapped Organizations&lt;/h3&gt;
+
+&lt;h2 id=&quot;automatic-markets-and-tradenets&quot;&gt;Automatic Markets and Tradenets&lt;/h2&gt;
+
+&lt;h2 id=&quot;the-blockchain-as-a-path-to-artificial-intelligence&quot;&gt;The Blockchain as a Path to Artificial Intelligence&lt;/h2&gt;
+
+&lt;h1 id=&quot;blockchain-30-justice-applications-beyond-currency-economics-and-markets&quot;&gt;Blockchain 3.0: Justice Applications Beyond Currency, Economics, and Markets&lt;/h1&gt;
+
+&lt;h2 id=&quot;blockchain-technology-is-a-new-and-highly-effective-model-for-organizing-activity&quot;&gt;Blockchain Technology Is a New and Highly Effective Model for Organizing Activity&lt;/h2&gt;
+
+&lt;h2 id=&quot;extensibility-of-blockchain-technology-concepts&quot;&gt;Extensibility of Blockchain Technology Concepts&lt;/h2&gt;
+
+&lt;h2 id=&quot;fundamental-economic-principles-discovery-value-attribution&quot;&gt;Fundamental Economic Principles: Discovery, Value Attribution,&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-technology-could-be-used-in-the-administration-of&quot;&gt;Blockchain Technology Could Be Used in the Administration of&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-layer-could-facilitate-big-datas-predictive-task-automation&quot;&gt;Blockchain Layer Could Facilitate Big Data’s Predictive Task Automation&lt;/h2&gt;
+
+&lt;h2 id=&quot;distributed-censorship-resistant-organizational-models&quot;&gt;Distributed Censorship-Resistant Organizational Models&lt;/h2&gt;
+
+&lt;h2 id=&quot;namecoin-decentralized-domain-name-system&quot;&gt;Namecoin: Decentralized Domain Name System&lt;/h2&gt;
+
+&lt;h2 id=&quot;challenges-and-other-decentralized-dns-services&quot;&gt;Challenges and Other Decentralized DNS Services&lt;/h2&gt;
+
+&lt;h2 id=&quot;freedom-of-speechanti-censorship-applications-alexandria&quot;&gt;Freedom of Speech/Anti-Censorship Applications: Alexandria&lt;/h2&gt;
+
+&lt;h2 id=&quot;decentralized-dns-functionality-beyond-free-speech-digital-identity&quot;&gt;Decentralized DNS Functionality Beyond Free Speech: Digital Identity&lt;/h2&gt;
+
+&lt;h2 id=&quot;digital-identity-verification&quot;&gt;Digital Identity Verification&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-neutrality&quot;&gt;Blockchain Neutrality&lt;/h2&gt;
+
+&lt;h2 id=&quot;digital-divide-of-bitcoin&quot;&gt;Digital Divide of Bitcoin&lt;/h2&gt;
+
+&lt;h2 id=&quot;digital-art-blockchain-attestation-services-notary-intellectual-property-protection&quot;&gt;Digital Art: Blockchain Attestation Services (Notary, Intellectual Property Protection)&lt;/h2&gt;
+
+&lt;h2 id=&quot;hashing-plus-timestamping&quot;&gt;Hashing Plus Timestamping&lt;/h2&gt;
+
+&lt;h2 id=&quot;proof-of-existence&quot;&gt;Proof of Existence&lt;/h2&gt;
+
+&lt;h2 id=&quot;virtual-notary-bitnotar-and-chronobit&quot;&gt;Virtual Notary, Bitnotar, and Chronobit&lt;/h2&gt;
+
+&lt;h2 id=&quot;monegraph-online-graphics-protection&quot;&gt;Monegraph: Online Graphics Protection&lt;/h2&gt;
+
+&lt;h2 id=&quot;digital-asset-proof-as-an-automated-feature&quot;&gt;Digital Asset Proof as an Automated Feature&lt;/h2&gt;
+
+&lt;h2 id=&quot;batched-notary-chains-as-a-class-of-blockchain-infrastructure&quot;&gt;Batched Notary Chains as a Class of Blockchain Infrastructure&lt;/h2&gt;
+
+&lt;h2 id=&quot;personal-thinking-blockchains&quot;&gt;Personal Thinking Blockchains&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-government&quot;&gt;Blockchain Government&lt;/h2&gt;
+
+&lt;h2 id=&quot;decentralized-governance-services&quot;&gt;Decentralized Governance Services&lt;/h2&gt;
+
+&lt;h2 id=&quot;precedentcoin-blockchain-dispute-resolution&quot;&gt;PrecedentCoin: Blockchain Dispute Resolution&lt;/h2&gt;
+
+&lt;h2 id=&quot;liquid-democracy-and-random-sample-elections&quot;&gt;Liquid Democracy and Random-Sample Elections&lt;/h2&gt;
+
+&lt;h2 id=&quot;random-sample-elections&quot;&gt;Random-Sample Elections&lt;/h2&gt;
+
+&lt;h2 id=&quot;futarchy-two-step-democracy-with-voting--prediction-markets&quot;&gt;Futarchy: Two-Step Democracy with Voting + Prediction Markets&lt;/h2&gt;
+
+&lt;h2 id=&quot;societal-maturity-impact-of-blockchain-governance&quot;&gt;Societal Maturity Impact of Blockchain Governance&lt;/h2&gt;
+
+&lt;h1 id=&quot;blockchain-30-efficiency-and-coordination-applications-beyond-currency&quot;&gt;Blockchain 3.0: Efficiency and Coordination Applications Beyond Currency,&lt;/h1&gt;
+
+&lt;h2 id=&quot;blockchain-science-gridcoin-foldingcoin&quot;&gt;Blockchain Science: Gridcoin, Foldingcoin&lt;/h2&gt;
+
+&lt;h2 id=&quot;community-supercomputing&quot;&gt;Community Supercomputing&lt;/h2&gt;
+
+&lt;h2 id=&quot;global-public-health-bitcoin-for-contagious-disease-relief&quot;&gt;Global Public Health: Bitcoin for Contagious Disease Relief&lt;/h2&gt;
+
+&lt;h2 id=&quot;charity-donations-and-the-blockchainseans-outpost&quot;&gt;Charity Donations and the Blockchain—Sean’s Outpost&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-genomics&quot;&gt;Blockchain Genomics&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-genomics-20-industrialized-all-human-scale-sequencing-solution&quot;&gt;Blockchain Genomics 2.0: Industrialized All-Human-Scale Sequencing Solution&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-technology-as-a-universal-order-of-magnitude-progress-model&quot;&gt;Blockchain Technology as a Universal Order-of-Magnitude Progress Model&lt;/h2&gt;
+
+&lt;h2 id=&quot;genomecoin-genomicresearchcoin&quot;&gt;Genomecoin, GenomicResearchcoin&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-health&quot;&gt;Blockchain Health&lt;/h2&gt;
+
+&lt;h2 id=&quot;healthcoin&quot;&gt;Healthcoin&lt;/h2&gt;
+
+&lt;h2 id=&quot;emrs-on-the-blockchain-personal-health-record-storage&quot;&gt;EMRs on the Blockchain: Personal Health Record Storage&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-health-research-commons&quot;&gt;Blockchain Health Research Commons&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-health-notary&quot;&gt;Blockchain Health Notary&lt;/h2&gt;
+
+&lt;h2 id=&quot;doctor-vendor-rfp-services-and-assurance-contracts&quot;&gt;Doctor Vendor RFP Services and Assurance Contracts&lt;/h2&gt;
+
+&lt;h2 id=&quot;virus-bank-seed-vault-backup&quot;&gt;Virus Bank, Seed Vault Backup&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-learning-bitcoin-moocs-and-smart-contract-literacy&quot;&gt;Blockchain Learning: Bitcoin MOOCs and Smart Contract Literacy&lt;/h2&gt;
+
+&lt;h2 id=&quot;learncoin&quot;&gt;Learncoin&lt;/h2&gt;
+
+&lt;h2 id=&quot;learning-contract-exchanges&quot;&gt;Learning Contract Exchanges&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-academic-publishing-journalcoin&quot;&gt;Blockchain Academic Publishing: Journalcoin&lt;/h2&gt;
+
+&lt;h2 id=&quot;the-blockchain-is-not-for-every-situation&quot;&gt;The Blockchain Is Not for Every Situation&lt;/h2&gt;
+
+&lt;h2 id=&quot;centralization-decentralization-tension-and-equilibrium&quot;&gt;Centralization-Decentralization Tension and Equilibrium&lt;/h2&gt;
+
+&lt;h1 id=&quot;advanced-concepts&quot;&gt;Advanced Concepts&lt;/h1&gt;
+
+&lt;h2 id=&quot;terminology-and-concepts&quot;&gt;Terminology and Concepts&lt;/h2&gt;
+
+&lt;h2 id=&quot;currency-token-tokenizing&quot;&gt;Currency, Token, Tokenizing&lt;/h2&gt;
+
+&lt;h2 id=&quot;communitycoin-hayeks-private-currencies-vie-for-attention&quot;&gt;Communitycoin: Hayek’s Private Currencies Vie for Attention&lt;/h2&gt;
+
+&lt;h2 id=&quot;campuscoin&quot;&gt;Campuscoin&lt;/h2&gt;
+
+&lt;h2 id=&quot;coin-drops-as-a-strategy-for-public-adoption&quot;&gt;Coin Drops as a Strategy for Public Adoption&lt;/h2&gt;
+
+&lt;h2 id=&quot;currency-new-meanings&quot;&gt;Currency: New Meanings&lt;/h2&gt;
+
+&lt;h2 id=&quot;currency-multiplicity-monetary-and-nonmonetary-currencies&quot;&gt;Currency Multiplicity: Monetary and Nonmonetary Currencies&lt;/h2&gt;
+
+&lt;h2 id=&quot;demurrage-currencies-potentially-incitory-and-redistributable&quot;&gt;Demurrage Currencies: Potentially Incitory and Redistributable&lt;/h2&gt;
+
+&lt;h2 id=&quot;extensibility-of-demurrage-concept-and-features&quot;&gt;Extensibility of Demurrage Concept and Features&lt;/h2&gt;
+
+&lt;h1 id=&quot;limitations&quot;&gt;Limitations&lt;/h1&gt;
+
+&lt;h2 id=&quot;technical-challenges&quot;&gt;Technical Challenges&lt;/h2&gt;
+
+&lt;h2 id=&quot;business-model-challenges&quot;&gt;Business Model Challenges&lt;/h2&gt;
+
+&lt;h2 id=&quot;scandals-and-public-perception&quot;&gt;Scandals and Public Perception&lt;/h2&gt;
+
+&lt;h2 id=&quot;government-regulation&quot;&gt;Government Regulation&lt;/h2&gt;
+
+&lt;h2 id=&quot;privacy-challenges-for-personal-records&quot;&gt;Privacy Challenges for Personal Records&lt;/h2&gt;
+
+&lt;h2 id=&quot;overall-decentralization-trends-likely-to-persist&quot;&gt;Overall: Decentralization Trends Likely to Persist&lt;/h2&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;h2 id=&quot;the-blockchain-is-an-information-technology&quot;&gt;The Blockchain Is an Information Technology&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-ai-consensus-as-the-mechanism-to-foster-friendly-ai&quot;&gt;Blockchain AI: Consensus as the Mechanism to Foster “Friendly” AI&lt;/h2&gt;
+
+&lt;h2 id=&quot;large-possibility-space-for-intelligence&quot;&gt;Large Possibility Space for Intelligence&lt;/h2&gt;
+
+&lt;h2 id=&quot;only-friendly-ais-are-able-to-get-their-transactions-executed&quot;&gt;Only Friendly AIs Are Able to Get Their Transactions Executed&lt;/h2&gt;
+
+&lt;h2 id=&quot;smart-contract-advocates-on-behalf-of-digital-intelligence&quot;&gt;Smart Contract Advocates on Behalf of Digital Intelligence&lt;/h2&gt;
+
+&lt;h2 id=&quot;blockchain-consensus-increases-the-information-resolution-of-the-universe&quot;&gt;Blockchain Consensus Increases the Information Resolution of the Universe&lt;/h2&gt;
 </description>
         <pubDate>Sun, 30 Aug 2015 07:00:00 -0500</pubDate>
         <link>/blockchain/mooc/2015/08/30/CNRC.work-Blockchain-MOOC.html</link>
