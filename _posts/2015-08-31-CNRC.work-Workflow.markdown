@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "GYGbot Networking"
-date:   2015-08-26 12:00:00
-categories: Networking
+title:  "CRNC.work Networking Technology"
+date:   2015-08-31 12:00:00
+categories: Networking Technoloogy
 ---
 
 Making one's professional contribution more valuable requires serious effort to listen, to make knowledge more relevant and to more genuinely NETWORK.  

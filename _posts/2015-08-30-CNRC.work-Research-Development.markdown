@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "GYGbot Research and Development!"
-date:   2015-08-23 12:00:00
+title:  "CRNC.work Research and Development!"
+date:   2015-08-30 12:00:00
 categories: DevOps Research Development
 ---
-GYGbot is about RESEARCH and DEVELOPMENT ... the priorities of this project at this point in time must happen in that order ... development is primarily going to be financed and executed by individuals, collaborative thinking and research activities are something that can be done as a group.
+CRNC.work is about RESEARCH and DEVELOPMENT ... the priorities of this project at this point in time must happen in that order ... development is primarily going to be financed and executed by individuals, collaborative thinking and research activities are something that can be done as a group.
 
 
 ## People

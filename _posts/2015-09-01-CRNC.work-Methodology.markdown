@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "GYGbot Agile Collaborative Methodology"
-date:   2015-08-24 12:00:00
+title:  "CRNC.work Agile Collaborative Methodology"
+date:   2015-09-01 12:00:00
 categories: Agile Collaborative Methodology
 ---
 
