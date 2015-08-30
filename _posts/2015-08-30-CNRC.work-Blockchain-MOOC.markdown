@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CRNC.work Blockchain MOOC!"
+title:  "CRNC.work Blockchain MOOC"
 date:   2015-08-30 12:00:00
 categories: Blockchain MOOC
 ---
