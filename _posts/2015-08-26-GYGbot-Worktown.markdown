@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "GYGbot Networking"
+date:   2015-08-26 12:00:00
+categories: Networking
+---
+
+Making one's professional contribution more valuable requires serious effort to listen, to make knowledge more relevant and to more genuinely NETWORK.  
+
+# Collaboration does not just happen; supporting a holarchic, self-organizing, self-empowering team takes the diligent effort of an aggressive [campaign](http://dictionary.reference.com/browse/campaign)
+Campaigning is about putting yourself out there and taking the chance that someone doesn't like you. Fear prevents the ability to take risks, which dampens experimentation and potential is not be realized. We drive out fear by substituting leadership and that means STEPPING FORWARD in a meaningful way -- that means applying business intelligence and finding the most appropriate battlegrounds for your campaign.
+
+# Encourage a quality-driven leadership mindset in ALL behaviors; inhabit the mindset of leadership
+A culture of collaborative leadership must be practiced mindfully and continually reinforced. Every aspect of execution matters. Quality leadership is not for sissies or people who resort to distractions, crutches and escapism when the going gets tough; collaborative thinking must be reflected in ALL practices, all processes, all logistics, all actions ... nonstop, 24X7.
+
+# Lead by promoting communication, collaboration and competition among team members
+Stop wasting your time on people who will not help themselves. Team members must be able to get along, to interact and challenge one another AND each team member must be capable of getting the team unstuck when the team gets stuck.  Get along and getting unstuck is about THINKING and especially about trying to think differently in order to understand other points of view ... it is important to work at understanding other points of view AND it also important to limit the time wasted on those who simply never try to understand others.  
+
+# Motivate and energize your team in ways that channel conflict
+Doing hard things is frustrating and inevitably leads to disagreements and conflict. It is necessary to use humor, teasing, practical jokes, dialogue and just getting out, giving things a try, traveling and actually doing different things to promote thinking differently ... it's not bad to have conflict; it's bad to give up, hunker down, stick to old ways and blame others for the conflict [that is a result of frustration that will be encountered in doing serious, challenging hard research and development].
+
+# Work with large national or even globally distributed teams
+Travel is necessary. Proficiency in the digital realm is necessary. Thinking DIFFERENT is necessary.
+
+# Apply workflow-as-code discipline and practicing agile mechanics just to get practice
+Some days, often in fact, it is important to just stay at it ... to stick with a workflow, trying things and persevering ... when professionals get in slumps, they work harder on the basics.
+
+## Workflow-As-Code Sprints
+All activities (design, code, integrate, test) are performed to create a one particular feature in one sprint.  We want sprints to be SMALL because with incremental additions to feature sets we can do a better job of ensuring that we have achieved a solid return on investment (ROI) delivered from each sprint ... and if not, we can make adjustments.
+
+## Workflow-As-Code kanban techniques
+1. Visualize the map ... inbox, analyze, dev, test, crunch
+2. Limit WIP ... focus on the one big thing that matters most first
+3. Manage flow ... 5S WIP, shine, sort, simplify, standardize, sustain
+4. Make process explicit so that everyone sticks with the process
+5. Implement feedback loops ... standups, face-to-face, NOT meetings
+6. Evolve collaboratively
