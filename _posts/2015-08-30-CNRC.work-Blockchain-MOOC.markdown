@@ -1,0 +1,143 @@
+---
+layout: post
+title:  "CRNC.work Blockchain MOOC!"
+date:   2015-08-30 12:00:00
+categories: Blockchain MOOC
+---
+In EVERY self-directed curriculum, the first thing that we need to address is our motivation or the "WHY DOES IT MATTER" of the topics we choose to learn about. Learning for the sake of curiosity or for accumulating esoteric knowledge is fine and dandy, of course ... but the point of focused, accelerated, productive learning is to expeditiously solve a problem or to efficiently develop more effective tools that enable others to better solve a problem ... as we learn about a topic, we should be thinking about each of the following headings and under each heading we should thinking about Strengths, Weaknesss, Opportunities and Threats.  In other words, the point of this accelerated learning is robust situational awareness of the terrain we face.
+
+## People
+Anything about training, management and coordination of effort between companies, locations, teams and anyone involved with a productive process.  How will the people involve be able to use what we want to build?
+
+## Methods
+How the process is performed and the specific requirements for defining the proper deliverables; this includes compliance with policies, procedures, reporting, rules, regulations and laws that are driven by other stakeholders in the process
+
+## Machines
+Any gear or equipment ... computational power, machine tools and tooling, automation, temporary fixtures and scaffolding, hardware, etc. required to accomplish the job
+
+## Materials:
+Raw materials, parts, pens, paper, power, fuel, lubricants, fasteners, hardware and other expendables will be used to produce the final product
+
+## Measurements
+What data are generated from the process and how will it be used to evaluate quality of the productive effort?  How accurately do the data depict reality?  What is the signal to noise ratio? What about measurement systems analysis or calibration of the recording device?
+
+## Environment
+The conditions, such as location, time, temperature, and political and social culture in which the process operates.  How will the environment fluctuate and change over time?  Can we design the process to be more antifragile, to benefit from more chaos or increased uncertainty?
+
+#Blockchain Background
+
+## Other particularly noteworthy resources
+Any errors, inconsistencies or failures of the curated content can be blamed upon the individuals behind CRNC.work, but the STRUCTURE or OUTLINE of this MOOC is really solid ... because it was blatantly stolen from the Table of Contents of very important book Blockchain(https://www.safaribooksonline.com/library/view/blockchain/9781491920480/) written by the Founder of [The Institute for Blockchain Studies](http://www.blockchainstudies.org/), [Melanie Swan](http://www.melanieswan.com/) and published by [O'Reilly Publishing](https://www.safaribooksonline.com/search/?q=Blockchain).  There are other noteworthy resources that are worth following closely as well ... for example, the [Ledra Capital Mega Master Blockchain List](http://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockchain-list) and the [full Ledra Bitcoin series](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series) are certainly a great starting point and complement to this MOOC. If you are interesting learning more about the blockchain, the best way might be to clone this MOOC and then make it better with your own curated content, notes, observations and updates.
+
+## Public/Private-Key Cryptography 101
+## Cryptocurrency Basics
+## Currency, Contracts, and Applications beyond Financial Markets
+## Blockchain 1.0, 2.0, and 3.0
+## What Is Bitcoin?
+## What Is the Blockchain?
+## The Connected World and Blockchain: The Fifth Disruptive Computing Paradigm
+## M2M/IoT Bitcoin Payment Network to Enable the Machine Economy
+## Mainstream Adoption: Trust, Usability, Ease of Use
+## Bitcoin Culture: Bitfilm Festival
+# Blockchain 1.0: Currency
+## Technology Stack: Blockchain, Protocol, Currency
+## The Double-Spend and Byzantine Generals’ Computing Problems
+## How a Cryptocurrency Works
+## eWallet Services and Personal Cryptosecurity
+## Merchant Acceptance of Bitcoin
+## Summary: Blockchain 1.0 in Practical Use
+## Relation to Fiat Currency
+## Regulatory Status
+# Blockchain 2.0: Contracts
+## Financial Services
+## Crowdfunding
+## Bitcoin Prediction Markets
+## Smart Property
+## Smart Contracts
+## Blockchain 2.0 Protocol Projects
+## Wallet Development Projects
+## Blockchain Development Platforms and APIs
+## Blockchain Ecosystem: Decentralized Storage, Communication, and Computation
+## Ethereum: Turing-Complete Virtual Machine
+## Counterparty Re-creates Ethereum’s Smart Contract Platform
+## Dapps, DAOs, DACs, and DASs: Increasingly Autonomous Smart Contracts
+### Dapps
+### DAOs and DACs
+### DASs and Self-Bootstrapped Organizations
+## Automatic Markets and Tradenets
+## The Blockchain as a Path to Artificial Intelligence
+# Blockchain 3.0: Justice Applications Beyond Currency, Economics, and Markets
+## Blockchain Technology Is a New and Highly Effective Model for Organizing Activity
+## Extensibility of Blockchain Technology Concepts
+## Fundamental Economic Principles: Discovery, Value Attribution,
+## Blockchain Technology Could Be Used in the Administration of
+## Blockchain Layer Could Facilitate Big Data’s Predictive Task Automation
+## Distributed Censorship-Resistant Organizational Models
+## Namecoin: Decentralized Domain Name System
+## Challenges and Other Decentralized DNS Services
+## Freedom of Speech/Anti-Censorship Applications: Alexandria
+## Decentralized DNS Functionality Beyond Free Speech: Digital Identity
+## Digital Identity Verification
+## Blockchain Neutrality
+## Digital Divide of Bitcoin
+## Digital Art: Blockchain Attestation Services (Notary, Intellectual Property Protection)
+## Hashing Plus Timestamping
+## Proof of Existence
+## Virtual Notary, Bitnotar, and Chronobit
+## Monegraph: Online Graphics Protection
+## Digital Asset Proof as an Automated Feature
+## Batched Notary Chains as a Class of Blockchain Infrastructure
+## Personal Thinking Blockchains
+## Blockchain Government
+## Decentralized Governance Services
+## PrecedentCoin: Blockchain Dispute Resolution
+## Liquid Democracy and Random-Sample Elections
+## Random-Sample Elections
+## Futarchy: Two-Step Democracy with Voting + Prediction Markets
+## Societal Maturity Impact of Blockchain Governance
+# Blockchain 3.0: Efficiency and Coordination Applications Beyond Currency,
+## Blockchain Science: Gridcoin, Foldingcoin
+## Community Supercomputing
+## Global Public Health: Bitcoin for Contagious Disease Relief
+## Charity Donations and the Blockchain—Sean’s Outpost
+## Blockchain Genomics
+## Blockchain Genomics 2.0: Industrialized All-Human-Scale Sequencing Solution
+## Blockchain Technology as a Universal Order-of-Magnitude Progress Model
+## Genomecoin, GenomicResearchcoin
+## Blockchain Health
+## Healthcoin
+## EMRs on the Blockchain: Personal Health Record Storage
+## Blockchain Health Research Commons
+## Blockchain Health Notary
+## Doctor Vendor RFP Services and Assurance Contracts
+## Virus Bank, Seed Vault Backup
+## Blockchain Learning: Bitcoin MOOCs and Smart Contract Literacy
+## Learncoin
+## Learning Contract Exchanges
+## Blockchain Academic Publishing: Journalcoin
+## The Blockchain Is Not for Every Situation
+## Centralization-Decentralization Tension and Equilibrium
+# Advanced Concepts
+## Terminology and Concepts
+## Currency, Token, Tokenizing
+## Communitycoin: Hayek’s Private Currencies Vie for Attention
+## Campuscoin
+## Coin Drops as a Strategy for Public Adoption
+## Currency: New Meanings
+## Currency Multiplicity: Monetary and Nonmonetary Currencies
+## Demurrage Currencies: Potentially Incitory and Redistributable
+## Extensibility of Demurrage Concept and Features
+# Limitations
+## Technical Challenges
+## Business Model Challenges
+## Scandals and Public Perception
+## Government Regulation
+## Privacy Challenges for Personal Records
+## Overall: Decentralization Trends Likely to Persist
+# Conclusion
+## The Blockchain Is an Information Technology
+## Blockchain AI: Consensus as the Mechanism to Foster “Friendly” AI
+## Large Possibility Space for Intelligence
+## Only Friendly AIs Are Able to Get Their Transactions Executed
+## Smart Contract Advocates on Behalf of Digital Intelligence
+## Blockchain Consensus Increases the Information Resolution of the Universe

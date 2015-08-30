@@ -5,57 +5,9 @@
     <description>Building a protocol for the currency of work</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Aug 2015 22:42:09 -0500</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2015 22:42:09 -0500</lastBuildDate>
+    <pubDate>Sun, 30 Aug 2015 11:08:39 -0500</pubDate>
+    <lastBuildDate>Sun, 30 Aug 2015 11:08:39 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>CRNC.work Agile Collaborative Methodology</title>
-        <description>&lt;p&gt;Making one’s professional contribution more valuable requires serious effort to listen, to make knowledge more relevant and to more genuinely network.&lt;/p&gt;
-
-&lt;h1 id=&quot;collaboration-does-not-just-happen-support-a-holarchic-self-organizing-self-empowering-team-takes-effort&quot;&gt;Collaboration does not just happen; support a holarchic, self-organizing, self-empowering team takes effort&lt;/h1&gt;
-&lt;p&gt;Many teams fear taking chances. Fear prevents the ability to take risks, which dampens experimentation and potential is not be realized. We drive out fear by substituting leadership.&lt;/p&gt;
-
-&lt;h1 id=&quot;encourage-a-quality-driven-leadership-mindset-in-all-behaviors&quot;&gt;Encourage a quality-driven leadership mindset in ALL behaviors&lt;/h1&gt;
-&lt;p&gt;A culture of collaborative leadership must be practiced and continually reinforced. Every aspect of execution matters. Quality leadership is not for sissies; collaborative thinking must be reflected in ALL practices, all processes.&lt;/p&gt;
-
-&lt;h1 id=&quot;lead-by-promoting-communication-collaboration-and-competition-among-team-members&quot;&gt;Lead by promoting communication, collaboration and competition among team members&lt;/h1&gt;
-&lt;p&gt;Team members must be able to get along, to interact and challenge one another AND each team member must be capable of getting the team unstuck when the team gets stuck.  Get along and getting unstuck is about THINKING and trying to think differently in order to understand other points of view.&lt;/p&gt;
-
-&lt;h1 id=&quot;motivate-and-energize-your-team-in-ways-that-channel-conflict&quot;&gt;Motivate and energize your team in ways that channel conflict&lt;/h1&gt;
-&lt;p&gt;Doing hard things is frustrating and inevitably leads to disagreements and conflict. It is necessary to use humor, teasing, practical jokes, dialogue and just getting out, giving things a try, traveling and actually doing different things to promote thinking differently … it’s not bad to have conflict; it’s bad to give up, hunker down, stick to old ways and blame others for the conflict [that is a result of frustration that will be encountered in doing serious, challenging hard research and development].&lt;/p&gt;
-
-&lt;h1 id=&quot;work-with-large-national-or-even-globally-distributed-teams&quot;&gt;Work with large national or even globally distributed teams&lt;/h1&gt;
-&lt;p&gt;Travel is necessary. Proficiency in the digital realm is necessary. Thinking DIFFERENT is necessary.&lt;/p&gt;
-
-&lt;h1 id=&quot;apply-workflow-as-code-discipline-and-practicing-agile-mechanics-just-to-get-practice&quot;&gt;Apply workflow-as-code discipline and practicing agile mechanics just to get practice&lt;/h1&gt;
-&lt;p&gt;Some days, often in fact, it is important to just stay at it … to stick with a workflow, trying things and persevering … when professionals get in slumps, they work harder on the basics.&lt;/p&gt;
-
-&lt;h2 id=&quot;workflow-as-code-sprints&quot;&gt;Workflow-As-Code Sprints&lt;/h2&gt;
-&lt;p&gt;All activities (design, code, integrate, test) are performed to create a one particular feature in one sprint.  We want sprints to be SMALL because with incremental additions to feature sets we can do a better job of ensuring that we have achieved a solid return on investment (ROI) delivered from each sprint … and if not, we can make adjustments.&lt;/p&gt;
-
-&lt;h2 id=&quot;workflow-as-code-kanban-techniques&quot;&gt;Workflow-As-Code kanban techniques&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Visualize the map … inbox, analyze, dev, test, crunch&lt;/li&gt;
-  &lt;li&gt;Limit WIP … focus on the one big thing that matters most first&lt;/li&gt;
-  &lt;li&gt;Manage flow … 5S WIP, shine, sort, simplify, standardize, sustain&lt;/li&gt;
-  &lt;li&gt;Make process explicit so that everyone sticks with the process&lt;/li&gt;
-  &lt;li&gt;Implement feedback loops … standups, face-to-face, NOT meetings&lt;/li&gt;
-  &lt;li&gt;Evolve collaboratively&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Tue, 01 Sep 2015 07:00:00 -0500</pubDate>
-        <link>/agile/collaborative/methodology/2015/09/01/CRNC.work-Methodology.html</link>
-        <guid isPermaLink="true">/agile/collaborative/methodology/2015/09/01/CRNC.work-Methodology.html</guid>
-        
-        
-        <category>agile</category>
-        
-        <category>collaborative</category>
-        
-        <category>methodology</category>
-        
-      </item>
     
       <item>
         <title>CRNC.work Networking Technology</title>
@@ -104,44 +56,161 @@
       </item>
     
       <item>
-        <title>CRNC.work Research and Development!</title>
-        <description>&lt;p&gt;CRNC.work is about RESEARCH and DEVELOPMENT … the priorities of this project at this point in time must happen in that order … development is primarily going to be financed and executed by individuals, collaborative thinking and research activities are something that can be done as a group.&lt;/p&gt;
+        <title>CRNC.work Blockchain MOOC!</title>
+        <description>&lt;p&gt;In EVERY self-directed curriculum, the first thing that we need to address is our motivation or the “WHY DOES IT MATTER” of the topics we choose to learn about. Learning for the sake of curiosity or for accumulating esoteric knowledge is fine and dandy, of course … but the point of focused, accelerated, productive learning is to expeditiously solve a problem or to efficiently develop more effective tools that enable others to better solve a problem … as we learn about a topic, we should be thinking about each of the following headings and under each heading we should thinking about Strengths, Weaknesss, Opportunities and Threats.  In other words, the point of this accelerated learning is robust situational awareness of the terrain we face.&lt;/p&gt;
 
 &lt;h2 id=&quot;people&quot;&gt;People&lt;/h2&gt;
-&lt;p&gt;Anything about training and coordination between anyone involved with the process&lt;/p&gt;
+&lt;p&gt;Anything about training, management and coordination of effort between companies, locations, teams and anyone involved with a productive process.  How will the people involve be able to use what we want to build?&lt;/p&gt;
 
 &lt;h2 id=&quot;methods&quot;&gt;Methods&lt;/h2&gt;
-&lt;p&gt;How the process is performed and the specific requirements for doing it, such as policies, procedures, rules, regulations and laws&lt;/p&gt;
+&lt;p&gt;How the process is performed and the specific requirements for defining the proper deliverables; this includes compliance with policies, procedures, reporting, rules, regulations and laws that are driven by other stakeholders in the process&lt;/p&gt;
 
 &lt;h2 id=&quot;machines&quot;&gt;Machines&lt;/h2&gt;
-&lt;p&gt;Any equipment, computers, tools, etc. required to accomplish the job&lt;/p&gt;
+&lt;p&gt;Any gear or equipment … computational power, machine tools and tooling, automation, temporary fixtures and scaffolding, hardware, etc. required to accomplish the job&lt;/p&gt;
 
 &lt;h2 id=&quot;materials&quot;&gt;Materials:&lt;/h2&gt;
-&lt;p&gt;Raw materials, parts, pens, paper, etc. used to produce the final product&lt;/p&gt;
+&lt;p&gt;Raw materials, parts, pens, paper, power, fuel, lubricants, fasteners, hardware and other expendables will be used to produce the final product&lt;/p&gt;
 
 &lt;h2 id=&quot;measurements&quot;&gt;Measurements&lt;/h2&gt;
-&lt;p&gt;Data generated from the process that are used to evaluate its quality&lt;/p&gt;
+&lt;p&gt;What data are generated from the process and how will it be used to evaluate quality of the productive effort?  How accurately do the data depict reality?  What is the signal to noise ratio? What about measurement systems analysis or calibration of the recording device?&lt;/p&gt;
 
 &lt;h2 id=&quot;environment&quot;&gt;Environment&lt;/h2&gt;
-&lt;p&gt;The conditions, such as location, time, temperature, and culture in which the process operates&lt;/p&gt;
+&lt;p&gt;The conditions, such as location, time, temperature, and political and social culture in which the process operates.  How will the environment fluctuate and change over time?  Can we design the process to be more antifragile, to benefit from more chaos or increased uncertainty?&lt;/p&gt;
+
+&lt;h1 id=&quot;blockchain-background&quot;&gt;Blockchain Background&lt;/h1&gt;
+
+&lt;h2 id=&quot;other-particularly-noteworthy-resources&quot;&gt;Other particularly noteworthy resources&lt;/h2&gt;
+&lt;p&gt;Any errors, inconsistencies or failures of the curated content can be blamed upon the individuals behind CRNC.work, but the STRUCTURE or OUTLINE of this MOOC is really solid … because it was blatantly stolen from the Table of Contents of very important book Blockchain(https://www.safaribooksonline.com/library/view/blockchain/9781491920480/) written by the Founder of &lt;a href=&quot;http://www.blockchainstudies.org/&quot;&gt;The Institute for Blockchain Studies&lt;/a&gt;, &lt;a href=&quot;http://www.melanieswan.com/&quot;&gt;Melanie Swan&lt;/a&gt; and published by &lt;a href=&quot;https://www.safaribooksonline.com/search/?q=Blockchain&quot;&gt;O’Reilly Publishing&lt;/a&gt;.  There are other noteworthy resources that are worth following closely as well … for example, the &lt;a href=&quot;http://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockchain-list&quot;&gt;Ledra Capital Mega Master Blockchain List&lt;/a&gt; and the &lt;a href=&quot;http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series&quot;&gt;full Ledra Bitcoin series&lt;/a&gt; are certainly a great starting point and complement to this MOOC. If you are interesting learning more about the blockchain, the best way might be to clone this MOOC and then make it better with your own curated content, notes, observations and updates.&lt;/p&gt;
+
+&lt;h2 id=&quot;publicprivate-key-cryptography-101&quot;&gt;Public/Private-Key Cryptography 101&lt;/h2&gt;
+&lt;p&gt;## Cryptocurrency Basics
+## Currency, Contracts, and Applications beyond Financial Markets
+## Blockchain 1.0, 2.0, and 3.0
+## What Is Bitcoin?
+## What Is the Blockchain?
+## The Connected World and Blockchain: The Fifth Disruptive Computing Paradigm
+## M2M/IoT Bitcoin Payment Network to Enable the Machine Economy
+## Mainstream Adoption: Trust, Usability, Ease of Use
+## Bitcoin Culture: Bitfilm Festival
+# Blockchain 1.0: Currency
+## Technology Stack: Blockchain, Protocol, Currency
+## The Double-Spend and Byzantine Generals’ Computing Problems
+## How a Cryptocurrency Works
+## eWallet Services and Personal Cryptosecurity
+## Merchant Acceptance of Bitcoin
+## Summary: Blockchain 1.0 in Practical Use
+## Relation to Fiat Currency
+## Regulatory Status
+# Blockchain 2.0: Contracts
+## Financial Services
+## Crowdfunding
+## Bitcoin Prediction Markets
+## Smart Property
+## Smart Contracts
+## Blockchain 2.0 Protocol Projects
+## Wallet Development Projects
+## Blockchain Development Platforms and APIs
+## Blockchain Ecosystem: Decentralized Storage, Communication, and Computation
+## Ethereum: Turing-Complete Virtual Machine
+## Counterparty Re-creates Ethereum’s Smart Contract Platform
+## Dapps, DAOs, DACs, and DASs: Increasingly Autonomous Smart Contracts
+### Dapps
+### DAOs and DACs
+### DASs and Self-Bootstrapped Organizations
+## Automatic Markets and Tradenets
+## The Blockchain as a Path to Artificial Intelligence
+# Blockchain 3.0: Justice Applications Beyond Currency, Economics, and Markets
+## Blockchain Technology Is a New and Highly Effective Model for Organizing Activity
+## Extensibility of Blockchain Technology Concepts
+## Fundamental Economic Principles: Discovery, Value Attribution,
+## Blockchain Technology Could Be Used in the Administration of
+## Blockchain Layer Could Facilitate Big Data’s Predictive Task Automation
+## Distributed Censorship-Resistant Organizational Models
+## Namecoin: Decentralized Domain Name System
+## Challenges and Other Decentralized DNS Services
+## Freedom of Speech/Anti-Censorship Applications: Alexandria
+## Decentralized DNS Functionality Beyond Free Speech: Digital Identity
+## Digital Identity Verification
+## Blockchain Neutrality
+## Digital Divide of Bitcoin
+## Digital Art: Blockchain Attestation Services (Notary, Intellectual Property Protection)
+## Hashing Plus Timestamping
+## Proof of Existence
+## Virtual Notary, Bitnotar, and Chronobit
+## Monegraph: Online Graphics Protection
+## Digital Asset Proof as an Automated Feature
+## Batched Notary Chains as a Class of Blockchain Infrastructure
+## Personal Thinking Blockchains
+## Blockchain Government
+## Decentralized Governance Services
+## PrecedentCoin: Blockchain Dispute Resolution
+## Liquid Democracy and Random-Sample Elections
+## Random-Sample Elections
+## Futarchy: Two-Step Democracy with Voting + Prediction Markets
+## Societal Maturity Impact of Blockchain Governance
+# Blockchain 3.0: Efficiency and Coordination Applications Beyond Currency,
+## Blockchain Science: Gridcoin, Foldingcoin
+## Community Supercomputing
+## Global Public Health: Bitcoin for Contagious Disease Relief
+## Charity Donations and the Blockchain—Sean’s Outpost
+## Blockchain Genomics
+## Blockchain Genomics 2.0: Industrialized All-Human-Scale Sequencing Solution
+## Blockchain Technology as a Universal Order-of-Magnitude Progress Model
+## Genomecoin, GenomicResearchcoin
+## Blockchain Health
+## Healthcoin
+## EMRs on the Blockchain: Personal Health Record Storage
+## Blockchain Health Research Commons
+## Blockchain Health Notary
+## Doctor Vendor RFP Services and Assurance Contracts
+## Virus Bank, Seed Vault Backup
+## Blockchain Learning: Bitcoin MOOCs and Smart Contract Literacy
+## Learncoin
+## Learning Contract Exchanges
+## Blockchain Academic Publishing: Journalcoin
+## The Blockchain Is Not for Every Situation
+## Centralization-Decentralization Tension and Equilibrium
+# Advanced Concepts
+## Terminology and Concepts
+## Currency, Token, Tokenizing
+## Communitycoin: Hayek’s Private Currencies Vie for Attention
+## Campuscoin
+## Coin Drops as a Strategy for Public Adoption
+## Currency: New Meanings
+## Currency Multiplicity: Monetary and Nonmonetary Currencies
+## Demurrage Currencies: Potentially Incitory and Redistributable
+## Extensibility of Demurrage Concept and Features
+# Limitations
+## Technical Challenges
+## Business Model Challenges
+## Scandals and Public Perception
+## Government Regulation
+## Privacy Challenges for Personal Records
+## Overall: Decentralization Trends Likely to Persist
+# Conclusion
+## The Blockchain Is an Information Technology
+## Blockchain AI: Consensus as the Mechanism to Foster “Friendly” AI
+## Large Possibility Space for Intelligence
+## Only Friendly AIs Are Able to Get Their Transactions Executed
+## Smart Contract Advocates on Behalf of Digital Intelligence
+## Blockchain Consensus Increases the Information Resolution of the Universe&lt;/p&gt;
 </description>
         <pubDate>Sun, 30 Aug 2015 07:00:00 -0500</pubDate>
-        <link>/devops/research/development/2015/08/30/CNRC.work-Research-Development.html</link>
-        <guid isPermaLink="true">/devops/research/development/2015/08/30/CNRC.work-Research-Development.html</guid>
+        <link>/blockchain/mooc/2015/08/30/CNRC.work-Blockchain-MOOC.html</link>
+        <guid isPermaLink="true">/blockchain/mooc/2015/08/30/CNRC.work-Blockchain-MOOC.html</guid>
         
         
-        <category>devops</category>
+        <category>blockchain</category>
         
-        <category>research</category>
-        
-        <category>development</category>
+        <category>mooc</category>
         
       </item>
     
       <item>
         <title>Welcome to CRNC.work!</title>
-        <description>&lt;p&gt;One teensy little stealth project that I have been thinkering on involves building a better employment productivity toolchain or system architecture for professionals and firms that need talent …
-Yeah, so it’s basically just vaporware now, but it’s about architecture and a protocol …&lt;/p&gt;
+        <description>&lt;p&gt;CRNC.work is one teensy, weensy itty-bitty little stealth project that a couple of us have been thinkering on … it involves building a better employment productivity toolchain or system architecture for professionals and firms that need talent …&lt;/p&gt;
+
+&lt;p&gt;Yeah, so it’s basically just vaporware now, but it’s about architecture and a protocol and laying a strong theoretical foundation that will sustain the work of development … right now, CRNC.work is mostly about learning and constructing a &lt;a href=&quot;http://gygbot.github.io/CRNC.work/MOOC/&quot;&gt;massively open online curriculum&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Think of something like Bitcoin attempting to build a better money protocol than the one built by the Federal Reserve … but CRNC.work is about skills and talent and social skills … finding a better social graph [than FB, Twitter. LinkedIn] and a better code graph than GitHub or StackExchange AND a better dating graph than eHarmony or AshleyMadison … and it’s about the actors owning their data rather giving up their data to a social network or hub or cheating site.&lt;/p&gt;
 
