@@ -1,0 +1,10 @@
+# Site settings
+title: Currency of Work -- CRNC.work
+email: MarkBruns@MarkBruns.com
+description: Building a protocol for the currency of work
+baseurl: /CRNC.work
+twitter_username: CRNC_work
+github_username:  GYGbot
+
+# Build settings
+markdown: kramdown
