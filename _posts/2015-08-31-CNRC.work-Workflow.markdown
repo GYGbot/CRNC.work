@@ -8,9 +8,79 @@ categories: Networking Technoloogy
 
 Social production or [commons-based peer production (CBPP)](https://en.wikipedia.org/wiki/Commons-based_peer_production) is primarily about a productivity-driven collaborative culture.  The point of CBPP is greater productivity and speed, but another result is that [for those who can handle it] work is more fun.   
 
-CBPP covers many different types of intellectual output, from open source software to data APIs to human-readable blogs, wikipedias, peer-reviewed articles and more. CBPP has been enabled by technoloogies that are primarily internet-based to allow for coordination between distributed groups of individuals working on a single project or even crowds of volunteers working on something like Wikipedia.  An absolutely fundamental building block of CBPP has been some form of revision-controlled process to track and rollback and attribute and merge different contributions to produce a coherent, unified intellectual product.
+CBPP covers many different types of intellectual output, from open source software to data APIs to human-readable blogs, wikipedias, peer-reviewed articles and more. CBPP has been enabled by technoloogies that are primarily internet-based to allow for coordination between distributed groups of individuals working on a single project or even crowds of volunteers working on something like Wikipedia.  An absolutely fundamental building block of CBPP has been some form of revision-controlled process to track and rollback and attribute and merge different contributions to produce a coherent, unified intellectual product.  Making one's professional contribution more valuable has always required serious effort to listen but it is increasingly necessarily to "think like a native speaker" when it comes distributed revision-control systems like Git to understand and make sense of the chaotic combinations of simultaneous ideas and revisions.  Make knowledge more relevant is matter of more genuinely being plugged into the NETWORK.  
 
-Making one's professional contribution more valuable has always required serious effort to listen but it is increasingly necessarily to "think like a native speaker" when it comes distributed revision-control systems to understand and make sense of the chaotic combinations of simultaneous ideas and revisions.  Make knowledge more relevant is matter of more genuinely being plugged into the NETWORK.  
+If you want to understand workflow, you really need to understand the [Architecture of Open Source Projects](http://aosabook.org/en/index.html) books and also follow the [blog](http://aosabook.org/blog/).  The big lesson from this material is another version of Conway's Law ... companies like IBM, Microsoft, Google or Facebook want to and can hire the best and brightest, but the record of performance from companies after they have hired the best and brightest is pretty dismal.  It takes more than incredibly bright people ... although there is absolutely nothing wrong with bright people ... consequential open source software projects were delivered because the workflows that were used allowed "ordinarily bright" people to create something that transcended the boundaries placed upon the best and brightest trapped inside the confines of IBM, Microsoft, Google or Facebook.
+
+**Volume I**
+1.  Scalable Web Architecture and Distributed Systems	Kate Matsudaira
+2.	Firefox Release Engineering	Chris AtLee, Lukas Blakk, John O'Duinn, and Armen Zambrano Gasparnian
+3.	FreeRTOS	Christopher Svec
+4.	GDB	Stan Shebs
+5.	The Glasgow Haskell Compiler	Simon Marlow and Simon Peyton-Jones
+6.	Git	Susan Potter
+7.	GPSD	Eric Raymond
+8.	The Dynamic Language Runtime and the Iron Languages	Jeff Hardy
+9.	ITK	Luis Ibanez and Brad King
+10.	GNU Mailman	Barry Warsaw
+11.	matplotlib	John Hunter and Michael Droettboom
+12.	MediaWiki	Sumana Harihareswara and Guillaume Paumier
+13.	Moodle	Tim Hunt
+14.	nginx	Andrey Alexeev
+15.	Open MPI	Jeff Squyres
+16.	OSCAR	Jennifer Ruttan
+17.	Processing.js	Mike Kamermans
+18.	Puppet	Luke Kanies
+19.	PyPy	Benjamin Peterson
+20.	SQLAlchemy	Michael Bayer
+21.	Twisted	Jessica McKellar
+22.	Yesod	Michael Snoyman
+23.	Yocto	Elizabeth Flanagan
+24.	ZeroMQ	Martin Sústrik
+
+**Volume II**
+1.	Asterisk	Russell Bryant
+2.	Audacity	James Crook
+3.	The Bourne-Again Shell	Chet Ramey
+4.	Berkeley DB	Margo Seltzer and Keith Bostic
+5.	CMake	Bill Hoffman and Kenneth Martin
+6.	Eclipse	Kim Moir
+7.	Graphite	Chris Davis
+8.	The Hadoop Distributed File System	Robert Chansler, Hairong Kuang, Sanjay Radia, Konstantin Shvachko, and Suresh Srinivas
+9.	Continuous Integration	C. Titus Brown and Rosangela Canino-Koning
+10.	Jitsi	Emil Ivov
+11.	LLVM	Chris Lattner
+12.	Mercurial	Dirkjan Ochtman
+13.	The NoSQL Ecosystem	Adam Marcus
+14.	Python Packaging	Tarek Ziadé
+15.	Riak and Erlang/OTP	Francesco Cesarini, Andy Gross, and Justin Sheehy
+16.	Selenium WebDriver	Simon Stewart
+17.	Sendmail	Eric Allman
+18.	SnowFlock	Roy Bryant and Andrés Lagar-Cavilla
+19.	SocialCalc	Audrey Tang
+20.	Telepathy	Danielle Madeley
+21.	Thousand Parsec	Alan Laudicina and Aaron Mavrinac
+22.	Violet	Cay Horstmann
+23.	VisTrails	Juliana Freire, David Koop, Emanuele Santos, Carlos Scheidegger, Claudio Silva, and Huy T. Vo
+24.	VTK	Berk Geveci and Will Schroeder
+25.	Battle For Wesnoth	Richard Shimooka and David White
+
+**The Performance of Open Source Applications**
+1. High Performance Networking in Chrome	Ilya Grigorik
+2.	From SocialCalc to EtherCalc	Audrey Tang
+3.	Ninja	Evan Martin
+4.	Parsing XML at the Speed of Light	Arseny Kapoulkine
+5.	MemShrink	Kyle Huey
+6.	Applying Optimization Principle Patterns to Component Deployment and Configuration Tools	Doug C. Schmidt, William R. Otte, and Aniruddha Gokhale
+7.	Infinispan	Manik Surtani
+8.	Talos	Clint Talbert and Joel Maher
+9.	Zotonic	Arjan Scherpenisse and Marc Worrell
+10.	Secrets of Mobile Network Performance	Bryce Howard
+11.	Warp	Kazu Yamamoto, Michael Snoyman, and Andreas Voellmy
+12.	Working with Big Data in Bioinformatics	Eric McDonald and C. Titus Brown
+
+Some observations from this blog...
+
 
 # Collaboration does not just happen; supporting a holarchic, self-organizing, self-empowering team takes the diligent effort of an aggressive [campaign](http://dictionary.reference.com/browse/campaign)
 Campaigning is about putting yourself out there and taking the chance that someone doesn't like you. Fear prevents the ability to take risks, which dampens experimentation and potential is not be realized. We drive out fear by substituting leadership and that means STEPPING FORWARD in a meaningful way -- that means applying business intelligence and finding the most appropriate battlegrounds for your campaign.
