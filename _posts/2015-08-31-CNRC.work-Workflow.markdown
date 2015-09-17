@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "CRNC.work Networking Technology"
+title:  "CRNC.work Social Production MOOC"
 date:   2015-08-31 12:00:00
 categories: Networking Technoloogy
 ---
+
+Social production or [commons-based peer production (CBPP)](https://en.wikipedia.org/wiki/Commons-based_peer_production) refers to [what has been primarily internet-based] coordinated, collaborative effort whereby distributed groups or even crowds of volunteers contribute project components and there exists some revision-controlled process to track and attribute changes and combine the contributions to produce a coherent, unified intellectual product. CBPP covers many different types of intellectual output, from open source software to data APIs to human-readable blogs, wikipedias, peer-reviewed articles and more.
 
 Making one's professional contribution more valuable requires serious effort to listen, to make knowledge more relevant and to more genuinely NETWORK.  
 
