@@ -1,10 +1,35 @@
-# Site settings
-title: Currency of Work -- CRNC.work
-email: MarkBruns@MarkBruns.com
-description: Building a protocol for the currency of work
-baseurl: /CRNC.work
-twitter_username: CRNC_work
-github_username:  GYGbot
+# Jekyll configuration
 
-# Build settings
-markdown: kramdown
+name: Currency of Work -- CRNC.work
+description: Building a protocol for the currency of work
+
+# url is currently only used only for the RSS feed in feed.xml
+url: http://GYGbot.github.io/CRNC.work
+
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
+#     run it like so: jekyll serve --baseurl=''
+baseurl: /CRNC.work
+
+# This can be '' to hide the Github nav button
+github: 'GYGbot/CRNC.work'
+
+# Set this to your UA-# value, or '' to disable the block completely
+gaaccount: ''
+
+# Set this to your disqus shortname to enable comments. Note that the 'comments'
+# setting below must also be true. Individual posts can override 'comments' to
+# disable on a post-by-post basis
+disqus: ''
+comments: true
+
+permalink: /:year/:month/:title
+paginate: 3
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+exclude: ['README.md', 'LICENSE']
