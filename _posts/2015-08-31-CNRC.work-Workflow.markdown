@@ -34,7 +34,7 @@ If you want to understand workflow, you really need to understand the [Architect
 It is essential to think about what these goals meant, given the often repeated mantra of Torvalds, the Linux kernel community and Git community: **"Make your code readable and sensible, and do NOT try to be clever.""  Git was ESSENTIAL!!!** ... none of the Git requirements were simply nice-to-have "cool" features that we are accustomed to finding in proprietary software [and even some open source software that still imitates the lowest-denominator-thinking and feature-bloat of proprietary packages].  Many [maybe most Github users] are tempted by the free availability of Git to think of Git as not just another useful piece of free software, but they don't really GET that [Git is really serious heavy-weight, grown-up, professional tool](http://git-scm.com/book/en/v2) that is NECESSARY for building serious, heavy-weight, grown-up professional applications ... Git is sensible and unclever and only as complicated as it absolutely needs to be; Git is ESSENTIAL.
 
 
-7.	[GPSD](http://aosabook.org/en/gpsd.html) by	[Eric Raymond](http://www.catb.org/esr/writings/taoup/html/) ... is a suite of tools for managing collections of GPS devices and other sensors related to navigation and precision timekeeping, including marine AIS (Automatic Identification System) radios and digital compasses. GPSD is widely deployed on laptops, smartphones, and autonomous vehicles including self-driving automobiles and robot submarines.  GPSD has historically had an exceptionally low defect rate in it code, as measured both by auditing tools such as splint, valgrind, and Coverity and by the incidence of bug reports on its tracker and elsewhere. The culture of the GPSD project is about being very aggressive about incorporating technology for automated testing.  So, the clean code of GPSD is not an accident but a matter of test driven design and fastidiously following appropriate best practices and patterns. As another example, the GPSD architecture has been driven by a very conscious and rigorous application of the design pattern of Unix device handling.  Of course, n1ot all patterns apply everywhere, but Unix device handling is the kind of pattern that is beneficial not just in OS kernels but also in userspace programs that are similarly required to deal with varied hardware and protocols.  No project is ever -- in retrospect, we can see that maybe GPSD could have been better designed for extensibility or maybe it would have been better to use client-side libraries rather than exposing the application protocol details, but in general, **sound architecture, good coding practice and a really determined focus on testing did reduce defect rates asymptotically close to zero and the success of the GPSD project illustrates why the most important prerequisite is the discipline to pursue those three things.**
+7.	[GPSD](http://aosabook.org/en/gpsd.html) by	[Eric Raymond](http://www.catb.org/esr/writings/taoup/html/) ... is a suite of tools for managing collections of GPS devices and other sensors related to navigation and precision timekeeping, including marine AIS (Automatic Identification System) radios and digital compasses. GPSD is widely deployed on laptops, smartphones, and autonomous vehicles including self-driving automobiles and robot submarines.  GPSD has historically had an exceptionally low defect rate in it code, as measured both by auditing tools such as splint, valgrind, and Coverity and by the incidence of bug reports on its tracker and elsewhere. The culture of the GPSD project is about being very aggressive about incorporating technology for automated testing.  So, the clean code of GPSD is not an accident but a matter of test driven design and fastidiously following appropriate best practices and patterns. As another example, the GPSD architecture has been driven by a very conscious and rigorous application of the design pattern of Unix device handling.  Of course, n1ot all patterns apply everywhere, but Unix device handling is the kind of pattern that is beneficial not just in OS kernels but also in userspace programs that are similarly required to deal with varied hardware and protocols.  No project is ever perfect -- in retrospect, we can see that maybe GPSD could have been better designed for extensibility or maybe it would have been better to use client-side libraries rather than exposing the application protocol details, but in general, **sound architecture, good coding practice and a really determined focus on testing did reduce defect rates asymptotically close to zero and the success of the GPSD project illustrates why the most important prerequisite is the discipline to pursue those three things.**
 
 8.	[The Dynamic Language Runtime and the Iron Languages]	by [Jeff Hardy]
 
@@ -48,7 +48,7 @@ It is essential to think about what these goals meant, given the often repeated 
 
 13.	[Moodle] by [Tim Hunt]
 
-14.	[nginx] by [Andrey Alexeev]
+14.	[nginx](http://aosabook.org/en/nginx.html) by [Andrey Alexeev](https://www.nginx.com/blog/network-vs-devops-how-to-manage-your-control-issues/#more-2515) ... nginx is a [company](https://www.nginx.com) AND a free, extensible open source web HTTP server [with a fully-supported implementation of HTTP/2](https://www.nginx.com/blog/nginx-plus-r7-released/)], reverse proxy server, a mail proxy server, a generic TCP proxy server and just about any kind of web server [you want to make it into] written by [Igor Sysoev](http://sysoev.ru/en/), a Russian software engineer. Since its public launch in 2004, nginx has focused on high performance, high concurrency and low memory usage. Additional features on top of the web server functionality, like load balancing, caching, access and bandwidth control, and the ability to integrate efficiently with a variety of applications, have helped to make nginx a better choice for the most demanding website architectures. According to [Netcraft](http://news.netcraft.com/), [nginx served or proxied 23.36% busiest sites in September 2015](http://news.netcraft.com/archives/2015/09/16/september-2015-web-server-survey.html). Both Microsoft and Apache lost market share, while [nginx, the company](https://www.nginx.com) was the only major server vendor to increase its market share in both sites and computers this month ... in 2002, when Igor Sysoev started to write nginx, most of the software enabling the Internet already existed and there is still [no shortage of competing alternatives in the web server space](https://en.wikipedia.org/wiki/Comparison_of_web_server_software) ... but there is always room for better idea, particularly in extensible web server foundation technology that better accommodates the needs of third-party application development communities.
 
 15.	[Open MPI] by [Jeff Squyres]
 
@@ -71,30 +71,56 @@ It is essential to think about what these goals meant, given the often repeated 
 24.	[ZeroMQ] by	[Martin Sústrik]
 
 **Volume II**
+
 1.	Asterisk	Russell Bryant
+
 2.	Audacity	James Crook
+
 3.	The Bourne-Again Shell	Chet Ramey
+
 4.	Berkeley DB	Margo Seltzer and Keith Bostic
+
 5.	CMake	Bill Hoffman and Kenneth Martin
+
 6.	Eclipse	Kim Moir
+
 7.	Graphite	Chris Davis
+
 8.	The Hadoop Distributed File System	Robert Chansler, Hairong Kuang, Sanjay Radia, Konstantin Shvachko, and Suresh Srinivas
+
 9.	Continuous Integration	C. Titus Brown and Rosangela Canino-Koning
+
+
 10.	Jitsi	Emil Ivov
+
 11.	LLVM	Chris Lattner
+
 12.	Mercurial	Dirkjan Ochtman
+
 13.	The NoSQL Ecosystem	Adam Marcus
+
 14.	Python Packaging	Tarek Ziadé
-15.	Riak and Erlang/OTP	Francesco Cesarini, Andy Gross, and Justin Sheehy
+
+15.	[Riak and Erlang/OTP](http://aosabook.org/en/riak.html)	by Francesco Cesarini, Andy Gross, and Justin Sheehy ... is a distributed, fault tolerant, open source database that illustrates how to build large scale systems using Erlang/OTP. Smaller and simpler codebases are not only easier to maintain, they often have fewer bugs. Riak is smaller and simpler than other databases becuase it built its own protocols taking advantages of Erlang native support for massively scalable distributed systems and a fundamentally sound asynchronous messaging layer in OTP. Riak offers features that are uncommon in databases, such as high-availability and linear scalability of both capacity and throughput. 
+
 16.	Selenium WebDriver	Simon Stewart
+
 17.	Sendmail	Eric Allman
+
 18.	SnowFlock	Roy Bryant and Andrés Lagar-Cavilla
+
 19.	SocialCalc	Audrey Tang
+
 20.	Telepathy	Danielle Madeley
+
 21.	Thousand Parsec	Alan Laudicina and Aaron Mavrinac
+
 22.	Violet	Cay Horstmann
+
 23.	VisTrails	Juliana Freire, David Koop, Emanuele Santos, Carlos Scheidegger, Claudio Silva, and Huy T. Vo
+
 24.	VTK	Berk Geveci and Will Schroeder
+
 25.	Battle For Wesnoth	Richard Shimooka and David White
 
 **The Performance of Open Source Applications**
